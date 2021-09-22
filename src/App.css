@@ -16,7 +16,13 @@
 a:hover {
   color: var(--pink) !important;
 }
-
+.link {
+  text-decoration: none;
+  color: white !important;
+}
+.py-3 {
+  padding: 1rem 0;
+}
 .app {
   display: flex;
   overflow: hidden;
